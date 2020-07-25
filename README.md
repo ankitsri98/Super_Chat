@@ -7,5 +7,9 @@
 # How To Run
 
 -npm install
+
+
 -After Setting Nodemon Run npm run dev
+
+
 -check localpost:3000
